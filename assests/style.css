@@ -253,6 +253,7 @@ footer div span {
     section p {
         font-size: 30px;
         text-align: center;
+        width: auto;
     }
     section button {
         width: 550px;
